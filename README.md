@@ -1,0 +1,2 @@
+# dibage
+first reposlitory
